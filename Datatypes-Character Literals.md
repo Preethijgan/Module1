@@ -20,6 +20,8 @@ print('a')
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/ccb5be15-ab6f-4e12-9df5-42af9cec4326)
+
 
 
 ## Result
